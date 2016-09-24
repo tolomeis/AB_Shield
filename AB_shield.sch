@@ -1070,8 +1070,8 @@ We've spent an enormous amount of time creating and checking these footprints an
 <part name="AB_IN" library="con-lstb" deviceset="MA06-1" device=""/>
 <part name="AB_OUT" library="con-lstb" deviceset="MA06-1" device=""/>
 <part name="X1" library="con-ptr500" deviceset="AK500/2-H" device=""/>
-<part name="X2" library="con-ptr500" deviceset="AK500/4" device="" value="MOTOR"/>
-<part name="JP1" library="jumper" deviceset="JP2E" device="" value="USE_VIN"/>
+<part name="X2" library="con-ptr500" deviceset="AK500/4" device=""/>
+<part name="JP1" library="jumper" deviceset="JP2E" device=""/>
 <part name="U1" library="adafruit" deviceset="ARDUINOR3" device="-DIMENSION"/>
 <part name="U$1" library="SparkFun_proto" deviceset="M17" device=""/>
 <part name="U$2" library="SparkFun_proto" deviceset="M17" device=""/>
